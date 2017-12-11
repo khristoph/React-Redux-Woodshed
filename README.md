@@ -1,6 +1,5 @@
-# React YouTube Clone
+# React/Redux Tinder Clone
 
-A clone of YouTube that uses React and Youtube's API.
 
 
 ### Getting Started
